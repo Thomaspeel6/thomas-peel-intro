@@ -27,7 +27,7 @@ const Index = () => {
         <nav className="flex justify-center gap-4" aria-label="Social links">
           <Button variant="outline" size="lg" asChild>
             <a 
-              href="https://github.com/thomaspeel" 
+              href="https://github.com/Thomaspeel6" 
               target="_blank" 
               rel="noopener noreferrer"
               aria-label="GitHub Profile"
@@ -38,7 +38,7 @@ const Index = () => {
           </Button>
           <Button variant="outline" size="lg" asChild>
             <a 
-              href="https://linkedin.com/in/thomaspeel" 
+              href="https://www.linkedin.com/in/thomas-peel-uk/" 
               target="_blank" 
               rel="noopener noreferrer"
               aria-label="LinkedIn Profile"
